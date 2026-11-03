@@ -27,7 +27,7 @@ Composant personnalisé pour Home Assistant permettant d'intégrer automatiqueme
 2. Cliquez sur les **3 petits points** en haut à droite, puis sur **Dépôts personnalisés**.
 3. Ajoutez l'URL du dépôt : `[https://github.com/jbuquet1979/ha-integration-school-holidays-be-wallonia-brussels/](https://github.com/jbuquet1979/ha-integration-school-holidays-be-wallonia-brussels/)`
 4. Sélectionnez la catégorie **Intégration**.
-5. Cliquez sur **Ajouter**, recherchez **Vacances Scolaires FWB** dans HACS, puis cliquez sur **Télécharger**.
+5. Cliquez sur **Ajouter**, recherchez **Vacances Scolaires Fédération Wallonie-Bruxelles** dans HACS, puis cliquez sur **Télécharger**.
 6. Redémarrez Home Assistant.
 
 ### Option 2 : Installation manuelle
@@ -42,7 +42,7 @@ Composant personnalisé pour Home Assistant permettant d'intégrer automatiqueme
 
 1. Dans Home Assistant, allez dans **Paramètres** > **Appareils et services**.
 2. Cliquez sur **Ajouter une intégration** en bas à droite.
-3. Recherchez **Vacances Scolaires FWB**.
+3. Recherchez **Vacances Scolaires Fédération Wallonie-Bruxelles**.
 4. Validez le formulaire d'installation.
 
 ---
