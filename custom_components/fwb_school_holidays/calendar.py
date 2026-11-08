@@ -31,6 +31,7 @@ class FWBSchoolCalendar(CoordinatorEntity, CalendarEntity):
         super().__init__(coordinator)
         self._attr_name = "Vacances Scolaires FWB"
         self._attr_unique_id = f"{DOMAIN}_calendar"
+        self._attr_icon = "mdi:school"
 
     def _parse_events(self) -> list[CalendarEvent]:
         """Convertit les données brutes de l'API en événements CalendarEvent."""
